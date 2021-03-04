@@ -1,0 +1,3 @@
+This is an example for the course of Gitub & Git  Platzi
+
+Autor: Fidel Evangelista de la Puente
