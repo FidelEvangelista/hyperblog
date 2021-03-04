@@ -1,3 +1,5 @@
-This is an example for the course of Gitub & Git  Platzi
+This is an example for the course of Gitub & Git  Platzi MAster
 
 Autor: Fidel Evangelista de la Puente
+Edad:
+Fecha:
