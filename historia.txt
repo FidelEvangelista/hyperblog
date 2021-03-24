@@ -1,6 +1,7 @@
 This is an example for the course of Gitub & Git  Platzi MAster
 
 Autor: Fidel Evangelista de la Puente
+Autor2: Fidel_ffelstein
 Edad: 26
 Fecha: 05-03-2021
 Datos:
