@@ -26,3 +26,10 @@ body{
     margin: 0;
     padding: 0%;
 }
+
+#footer{
+    background: #535251;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
