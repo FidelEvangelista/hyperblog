@@ -27,17 +27,9 @@ body{
     padding: 0%;
 }
 
-<<<<<<< HEAD
 #cabeceraHead #logo{
     /* background: url("../imagenes/dragon.png") no-repeat center center f; */
     width: 20px;
     vertical-align: middle;
     
-=======
-#footer{
-    background: #535251;
-    color: white;
-    text-align: center;
-    padding: 0.5em;
->>>>>>> 17782a033b5e5250c4b88712211f4a9071780157
 }
