@@ -27,12 +27,15 @@ body{
     padding: 0%;
 }
 
+<<<<<<< HEAD
 #footer{
     background: #535251;
     color: white;
     text-align: center;
     padding: 0.5em;
 }
+=======
+>>>>>>> 7b0a266 (se modifico el css para solucionar error)
 #cabeceraHead #logo{
     /* background: url("../imagenes/dragon.png") no-repeat center center f; */
     width: 20px;
